@@ -4,10 +4,14 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import { ThingSpeakProvider } from './context/useThingSpeak';
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <ThingSpeakProvider config={{}}>
+      <App />
+    </ThingSpeakProvider>
   </React.StrictMode>
 );
 
