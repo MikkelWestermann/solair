@@ -8,11 +8,11 @@ const SetTemp = () => {
 
   const [desiredTemperature, setDesiredTemperature] = useState(20);
 
-  const fetchDesiredTemp = async () => {
-    // TODO: fetch current desired temp from ThingSpeak
+  // const fetchDesiredTemp = async () => {
+  //   // TODO: fetch current desired temp from ThingSpeak
 
-    return 20
-  }
+  //   return 20
+  // }
 
   const setDesiredTemp = async (temp) => {
     // Post command to TalkBack to set desired temp
