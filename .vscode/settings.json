@@ -10,5 +10,11 @@
     "activityBar.background": "#362C1B",
     "titleBar.activeBackground": "#4C3E25",
     "titleBar.activeForeground": "#FCFBF9"
+  },
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": [
+      "file:///Users/mikkel/Desktop/WebDev/arduino/.github/workflows.yaml",
+      "file:///Users/mikkel/Desktop/WebDev/arduino/.github/workflows/deploy.yaml"
+    ]
   }
 }

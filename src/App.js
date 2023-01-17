@@ -11,8 +11,8 @@ function App() {
 
 
   return (
-    <div className="relative flex flex-col items-center space-y-12">
-      <h1 className="text-center text-8xl font-bold my-12">SolAir</h1>
+    <div className="relative flex flex-col items-center space-y-12 p-8">
+      <h1 className="text-center text-8xl font-bold my-8">SolAir</h1>
 
       <Temperature />
 
