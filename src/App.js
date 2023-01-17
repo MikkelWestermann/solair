@@ -1,6 +1,7 @@
 import Setup from "./components/setup";
 import Temperature from "./components/temperature";
 import SetTemp from "./components/set-temp";
+import Override from "./components/override";
 
 import { ToastContainer } from 'react-toastify';
 
@@ -16,6 +17,8 @@ function App() {
       <Temperature />
 
       <SetTemp />
+
+      <Override />
 
       <div className="flex p-4 max-w-xl absolute right-5 top-5">
         <Setup />
