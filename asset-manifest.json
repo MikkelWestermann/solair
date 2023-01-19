@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/solair/static/css/main.653a8c6d.css",
+    "main.js": "/solair/static/js/main.a27c124c.js",
+    "static/js/787.135d9627.chunk.js": "/solair/static/js/787.135d9627.chunk.js",
+    "index.html": "/solair/index.html",
+    "main.653a8c6d.css.map": "/solair/static/css/main.653a8c6d.css.map",
+    "main.a27c124c.js.map": "/solair/static/js/main.a27c124c.js.map",
+    "787.135d9627.chunk.js.map": "/solair/static/js/787.135d9627.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.653a8c6d.css",
+    "static/js/main.a27c124c.js"
+  ]
+}
