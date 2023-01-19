@@ -33,8 +33,6 @@ const Override = () => {
       <h3 className="text-xl mb-4 font-bold text-center">Override</h3>
 
       <div className="flex flex-col items-center space-y-8">
-        <p>TODO: add a little explainer text</p>
-
         <button
           className="shadow bg-purple-500 hover:bg-purple-400 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded"
           onClick={override}
